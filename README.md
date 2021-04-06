@@ -1,3 +1,3 @@
-### `puts ("hey\n");`
+### `puts ("hey");`
 
 jack of all trades, master of python
